@@ -1,9 +1,16 @@
-* 👋 Hi, I’m @suwe-dev, Web developer...
-* 👀 I’m interested in Backend development Python(Flask RESTful APIs) & Java(Spring Boot - RESTful APIs)
-* 🥳 Familiar with PostgreSQL and MySQL Databases using ORM (SQLAlchemy)
-* 🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js) stack
-* 💞️ I’m looking to collaborate on Backend development and Open source projects 🤓
-* 📫 Contact me on suwethan.dev@outlook.com
+*👋 Hi, I’m @suwe-dev, a passionate web developer.
+
+*👀 I specialize in Backend development, particularly with Python (Flask RESTful APIs) and Java (Spring Boot - RESTful APIs).
+
+*🌱 Currently, I'm deepening my knowledge in Backend development with Java, specifically focusing on the Spring framework and Spring Boot.
+
+*💼 Proficient in working with databases, I have experience with PostgreSQL and MySQL, utilizing ORM (SQLAlchemy) for efficient data management.
+
+*🥳 I'm excited about my ongoing journey in software development and am currently immersing myself in the MERN stack (MongoDB, Express.js, React.js, Node.js), broadening my skill set.
+
+*💞️ Always open to collaboration, I'm keen to contribute to Backend development and open-source projects.
+
+*📫 Feel free to contact me at suwethan.dev@outlook.com.
 
 <!---
 suwe-dev/suwe-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
